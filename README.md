@@ -1,2 +1,4 @@
 # Tic-Tac-Toe-Tutorial
-Tic-Tac-Toe Tutorial in Python
+Python TIC TAC TOE Tutorial | Beginner friendly
+
+Video link --> https://youtu.be/h03_QB5XmyY
